@@ -3,6 +3,9 @@ Go-HttpBench
 
 *an ab-like benchmark tool run on multi-core cpu*
 
+我们平常压力测试最快最简单的方法就是ab测试，现在Go实现了类似的压力测试工具
+ 
+
 Installation
 --------------
 1. install [Go](http://golang.org/doc/install) into your environment
